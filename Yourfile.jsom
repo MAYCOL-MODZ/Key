@@ -13,8 +13,8 @@
     }
 {
         "device_id": "bcd04c812799cc3a",
-        "key": "MONTANA_MODDER",
+        "key": "Montana18",
         "expirydate": "19-09-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
